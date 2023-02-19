@@ -1,0 +1,45 @@
+body
+{
+    background-color: #FCF8E8;
+    text-align: center;
+}
+hr
+{
+    background-color: #FCF8E8;
+    border-style: dotted;
+    border-width: 5px 0 0 0;
+    border-color:#ECB390;
+    width: 10%;
+}
+h1
+{
+    color: #94B49F;
+    text-align: center;
+}
+h2
+{
+    color: #94B49F;
+    text-align: center;
+}
+h3
+{
+    color: #94B49F;
+    text-align: center;
+}
+ul
+{
+    list-style-position: inside;
+}
+ol
+{
+    list-style-position: inside;
+}
+li::marker
+{
+    color: #ECB390;
+}
+table
+{
+    margin: auto;
+    text-align:center;
+}
